@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{E64178D2-E606-44F0-9BAF-F8BA85643214}|https">
+  <MonoDevelop.Ide.ItemProperties.MVC__Demo PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVC_Demo/Models/Student.cs">
+    <Files>
+      <File FileName="MVC_Demo/Program.cs" Line="6" Column="6" IsPinned="True" />
+      <File FileName="MVC_Demo/DbContextDemo.cs" Line="12" Column="50" IsPinned="True" />
+      <File FileName="MVC_Demo/appsettings.json" />
+      <File FileName="MVC_Demo/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="MVC_Demo/Views/Shared/_Layout.cshtml" Line="43" Column="14" />
+      <File FileName="MVC_Demo/Models/Department.cs" Line="10" Column="1" />
+      <File FileName="MVC_Demo/Models/Student.cs" Line="19" Column="27" />
+      <File FileName="MVC_Demo/Views/Students/Create.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVC_Demo" expanded="True">
+            <Node name="MVC_Demo" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="Students" expanded="True">
+                  <Node name="Create.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
